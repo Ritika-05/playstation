@@ -1,0 +1,152 @@
+
+body{
+  background-image: url(https://wallpapercave.com/wp/wp5927527.png);
+  background-repeat:no-repeat ;
+  background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(201, 199, 199);
+  }
+  
+  li {
+    float: left;
+    display: inline;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+  }
+  a :hover{
+    /* background-color:rgb(201, 199, 199); */
+    text-shadow: 4px;
+    border: 4px double rgb(201, 199, 199) ;
+  }
+  .h1{
+    color: rgb(201, 199, 199);
+  
+  }
+  #features{
+    margin-top: 40px;
+  }
+  .uppertext{
+    display: inline;
+  }
+  #this{
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight :100;
+    font-size: 30px;
+    margin: 10px 60px 0 80px;
+    /* display: inline; */
+  }
+  #playstation{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* font-weight: 400; */
+    font-size: 40px;
+    margin:  0px 60px 0px 80px;
+  }
+  #para{
+  margin:  10px 60px 0px 80px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 200;
+  }
+  #button{
+    margin:20px 60px 40px 80px;
+    border-radius: 20px;
+    border-color: rgb(99, 97, 97);
+    box-shadow: inset;
+    padding: 7px;
+    background-color: rgb(189, 193, 196);
+
+  }
+  #buttonlink{
+    text-decoration: none;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+  }
+
+  #uppersection{
+    display: inline-block;
+  }
+
+  #offer{
+    display: inline-block;
+    /* float:right; */
+    color:  rgb(201, 199, 199);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:500;
+    font-size: 40px;
+    margin-right: 20px;
+    margin-left: 80px;
+
+  }
+
+  #offerlink{
+    text-decoration: none;
+    color: rgb(201, 199, 199); ;
+  }
+
+  #favourite{
+    color: rgb(201, 199, 199);
+    font-size: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display:block;
+    margin-top: 120px;
+    margin-left: 80px;
+    margin-bottom: 0px;
+  }
+
+  .imgdiv{
+    display:inline-block;
+    margin :10px;
+  }
+
+  #images{
+    margin: 0px 10px 0px 10px;
+    /* padding: 50px; */
+  }
+  .img{
+    height: 150px;
+    width: 190px;
+    padding: 20px 20px 20px 20px ;
+    /* box-shadow: aliceblue; */
+    border: 1px black;
+    border-radius: 12px;
+
+  }
+
+  .h3{
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:300;
+    /* padding-left: 80px; */
+    text-align: center;
+  }
+
+  #footer{
+    padding: 1% 1%;
+    text-align: center;
+    height: 10px;
+    background-color:  rgb(201, 199, 199);
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 70px;
+}
+
+.social-icons{
+    margin: 2px 15px;
+}
+ 
